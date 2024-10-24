@@ -51,7 +51,7 @@
     flex-direction: column;
     padding: 15px;
     border-radius: 5px;
-    background-color: rgb(50, 195, 205);
+    /* background-color: rgb(50, 195, 205); */
 }
 
 .todos__heading {
